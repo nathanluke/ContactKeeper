@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Youngin23:<password>@contactkeeper-oeqx9.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "webtokenSecret": "secret"
+}
